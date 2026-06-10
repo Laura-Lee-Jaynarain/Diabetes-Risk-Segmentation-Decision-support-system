@@ -94,7 +94,7 @@ This project addresses those challenges by providing clinicians with an intellig
 
 
 ```
-MLG382-ASSIGNMENT1---GROUP-11/
+Diabetes-Risk-Segmentation-Decision-support-system/
 │
 ├── artifacts/
 │   ├── cluster_labels.pkl
@@ -287,3 +287,15 @@ Academic Project – Belgium Campus ITversity
 * Scikit-Learn Documentation
 * XGBoost Documentation
 * SHAP Documentation
+
+## Built by a collaborative student development team.
+
+Laura-lee Jaynarain
+Dzanga Madi
+Martin van Staden
+Chantel Phaahla
+Gontse Moleijan
+
+## Status
+
+Currently deployed internally as a demo. Active development ongoing.
