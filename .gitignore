@@ -1,0 +1,22 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environments
+venv/
+env/
+
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints 
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDE Specific (Prevents team members' editor settings from clashing)
+.vscode/
+.idea/
+*.swp
+*.swo
