@@ -289,13 +289,13 @@ Academic Project – Belgium Campus ITversity
 * SHAP Documentation
 
 ## Built by a collaborative student development team.
-
+```
 Laura-lee Jaynarain
 Dzanga Madi
 Martin van Staden
 Chantel Phaahla
 Gontse Moleijan
-
+```
 ## Status
 
 Currently deployed internally as a demo. Active development ongoing.
